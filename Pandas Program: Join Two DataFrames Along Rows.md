@@ -33,7 +33,9 @@ print(c)
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/051c858b-cd5d-4904-b839-aea58ed29616)
+
+![Screenshot 2025-05-15 084413](https://github.com/user-attachments/assets/155125c1-bd10-4d8d-807d-c97b345ce72e)
+
 
 ## Result
 Thus,the Python program using Pandas to **join two DataFrames along rows** (row-wise concatenation) and assign all data to a new DataFrame is created successfully.
